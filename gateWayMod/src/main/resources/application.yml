@@ -1,15 +1,15 @@
 spring:
   application:
-    name: saksham-api-gateway
+    name: rahul-api-gateway
   cloud:
     gateway:
       routes:
-        - id: saksham-login
-          uri: lb://saksham-login
+        - id: rahul-login
+          uri: lb://rahul-login
           predicates:
           - Path=/auth/**
-        - id: saksham-dashboard
-          uri: lb://saksham-dashboard
+        - id: rahul-dashboard
+          uri: lb://rahul-dashboard
           predicates:
           - Path=/dashboard/**
       default-filters:

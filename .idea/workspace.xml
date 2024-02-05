@@ -5,28 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="90918fdd-4fcf-4232-ab99-7e6151283bdd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/dashboard/src/main/java/com/blogs/dashboard/filter/filter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/blogsApp.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dashboard/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dashboard/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dashboard/src/main/java/com/blogs/dashboard/DashboardApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/dashboard/src/main/java/com/blogs/dashboard/DashboardApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dashboard/src/main/java/com/blogs/dashboard/Filter/gatewayfilter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dashboard/src/main/java/com/blogs/dashboard/controller/dashboardController.java" beforeDir="false" afterPath="$PROJECT_DIR$/dashboard/src/main/java/com/blogs/dashboard/controller/dashboardController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dashboard/src/main/java/com/blogs/dashboard/model/comment.java" beforeDir="false" afterPath="$PROJECT_DIR$/dashboard/src/main/java/com/blogs/dashboard/model/comment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dashboard/src/main/java/com/blogs/dashboard/model/dashboardModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/dashboard/src/main/java/com/blogs/dashboard/model/dashboardModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dashboard/src/main/java/com/blogs/dashboard/service/dashboardService.java" beforeDir="false" afterPath="$PROJECT_DIR$/dashboard/src/main/java/com/blogs/dashboard/service/dashboardService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dashboard/src/main/java/com/blogs/dashboard/service/dashboardServiceInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/dashboard/src/main/java/com/blogs/dashboard/service/dashboardServiceInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dashboard/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/dashboard/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/login/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/login/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/login/src/main/java/com/blogs/login/LoginApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/login/src/main/java/com/blogs/login/LoginApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/login/src/main/java/com/blogs/login/controller/loginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/login/src/main/java/com/blogs/login/controller/loginController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateWayMod/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gateWayMod/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateWayMod/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/gateWayMod/src/main/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/login/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/login/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/serverEureka/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/serverEureka/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +45,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/ubuntu/Documents/BlogBackend&quot;
+    &quot;last_opened_file_path&quot;: &quot;/home/ubuntu/Downloads/BlogBackend&quot;
   }
 }</component>
   <component name="RunManager" selected="Application.DashboardApplication">
@@ -119,8 +104,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.DashboardApplication" />
-        <item itemvalue="Application.LoginApplication" />
         <item itemvalue="Application.GateWayModApplication" />
+        <item itemvalue="Application.LoginApplication" />
         <item itemvalue="Application.ServerEurekaApplication" />
       </list>
     </recent_temporary>
